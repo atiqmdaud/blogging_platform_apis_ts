@@ -32,7 +32,6 @@ const router = Router();
  *       example:
  *         title: My First Post
  *         content: This is the content of my first post
- *         author: 60d0fe4f5311236168a109ca
  */
 
 /**
