@@ -2,10 +2,10 @@ Blogging Platform Apis - demo only
 
 need local MongoDB server
 
-To run:
+To run:<br/>
 node dist/server.js
 
-Swagger UI:
+Swagger UI:<br/>
 http://localhost:3000/api-docs/
 
 
